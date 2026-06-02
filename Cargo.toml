@@ -1,0 +1,11 @@
+[package]
+name = "conservation-spectral-topology"
+version = "0.1.0"
+edition = "2021"
+description = "Conservation-Spectral-Topology (CST) unified framework for spectral graph analysis"
+license = "MIT"
+repository = "https://github.com/SuperInstance/conservation-spectral-topology"
+keywords = ["spectral", "graph", "topology", "conservation", "laplacian"]
+categories = ["mathematics", "science"]
+
+[dependencies]
